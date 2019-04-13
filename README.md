@@ -23,12 +23,12 @@ Python
 ### Visuals
 * Morphology Image Processing
 
-![denoised]()
+![denoised](https://github.com/disha-mehra/Morphology-ImageSegmentation-and-HoughTransform/blob/master/res_noise2.jpg)
 
 * Image Segmentation
 
-![segmented]()
+![segmented](https://github.com/disha-mehra/Morphology-ImageSegmentation-and-HoughTransform/blob/master/final_img.jpg)
 
-* Hough Transform to detect lines and coins
+* Hough Transform to detect lines
 
-![coins]()
+![lines](https://github.com/disha-mehra/Morphology-ImageSegmentation-and-HoughTransform/blob/master/red_lines.jpg)
